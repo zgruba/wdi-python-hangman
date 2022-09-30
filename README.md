@@ -1,5 +1,7 @@
 # Console Hangman
 
+Made for Bioinformatics introduction to computer science classes at MIMUW in the winter semester of 2021/2022.
+
 ## Usage:
 
 ```
